@@ -1,3 +1,6 @@
+## Description
+This project is an basic practice about next.js.
+
 ## Getting Started
 
 First, run the development server:
